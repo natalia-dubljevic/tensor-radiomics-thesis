@@ -1,4 +1,4 @@
-# tensor-radiomics-thesis
+# Tensor Radiomics: Applications of Multi-Quantized Features to Oncologic PET/CT Images
 Supplemental code for the thesis "Tensor Radiomics: Applications of Multi-Quantized Features to Oncologic PET/CT Images". 
 Link to thesis will be added soon.
 
